@@ -1,5 +1,5 @@
 ---
-title: "iOS 앱 "
+title: "iOS 앱 개인정보 "
 date: 2021-03-31 21:00:00
 categories: jekyll update
 ---
