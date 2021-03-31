@@ -1,7 +1,7 @@
 ---
 title: "iOS 앱 개인정보 처리방침"
 date: 2021-03-31 21:00:00
-categories: jekyll update
+categories: iOS 
 ---
 ZooSoft의 어플리케이션은 개인정보보호법에 따라 이용자들의 개인정보 보호 및 권익을 보호하고자 다음과 같은 처리방침을 두고 있습니다.
 
