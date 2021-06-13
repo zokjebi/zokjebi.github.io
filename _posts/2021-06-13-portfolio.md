@@ -3,7 +3,8 @@ title: "zokjebi의 포트폴리오"
 date: 2021-06-13 09:00:00
 categories: job
 ---
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45afdc22-f234-43b7-837d-781cf17d15df/__-210613.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45afdc22-f234-43b7-837d-781cf17d15df/__-210613.jpg)
+
+![포트폴리오 프로필 이미지-210613](https://user-images.githubusercontent.com/13705906/121793216-e7410e00-cc37-11eb-9f95-4902f85408bd.jpg)
 
 # 류동엽 (dongyup ryu)
 
