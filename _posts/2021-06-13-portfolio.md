@@ -42,13 +42,14 @@ categories: job
 - Android
 - Java / Spring
 - Php
+- Node JS / Electron JS
 - Swift / Objective-C (최근에 개인프로젝트로 공부중이며 앱스토어에 출시도 해보았습니다.)
     - [https://apps.apple.com/kr/app/트롯투표-리매치/id1554393987](https://apps.apple.com/kr/app/%ED%8A%B8%EB%A1%AF%ED%88%AC%ED%91%9C-%EB%A6%AC%EB%A7%A4%EC%B9%98/id1554393987)
 
 ### 🗃개발에 참여한 프로그램
 
 1. 전화상담 프로그램 - VB.Net, C#
-2. 방문관리상담 프로그램 (테블릿용) - Android
+2. 방문관리상담 앱 - Android
 3. 계측기 장비, 통신 프로그램 (미들웨어)  - C#
 4. 특수차량 안전관리 프로그램 - Android, Spring, Electron JS (커스텀 브라우저 제작을 위함)
     - 비콘과 비콘수신기와의 통신을 이용
