@@ -36,6 +36,7 @@ categories: job
 
 ### 🔧기술스택
 
+- C
 - C++
 - MFC
 - C#
@@ -54,7 +55,7 @@ categories: job
 4. 특수차량 안전관리 프로그램 - Android, Spring, Electron JS (커스텀 브라우저 제작을 위함)
     - 비콘과 비콘수신기와의 통신을 이용
     - 기존 ERP와의 데이터를 연계하여 전광판 (PC)에 데이터 표현
-5. OO소방, 소화전관리 프로그램 - WPF, Android
+5. OO소방, 소화전관리 프로그램 - C# WPF, Android
 6. 위험물관리 프로그램 - C#
 7. POS 프로그램 - C#
 8. 와이파이 스캐너 앱 - C#, Android, Web
