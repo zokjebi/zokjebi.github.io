@@ -61,9 +61,11 @@ categories: job
 8. 와이파이 스캐너 앱 - C#, Android, Web
     - 기숙사 출입 시스템
 9. OO터미널, 수화물관리 프로그램 - C#
-10. 윈도우 영상 스트리밍 서버 - MFC
+10. 쇼핑몰 앱 - iOS
+11. 음원 재생, 다운로드 앱 - iOS
+12. 윈도우 영상 스트리밍 서버 - MFC
     - IOCP 를 이용
-11. 영상 스트리밍 앱  - Android
+13. 영상 스트리밍 앱  - Android
     - UDP Hole punching 을 이용
-12. 카메라 하드웨어 개발 - C
-13. SmartNac 개발 - MFC
+14. 카메라 하드웨어 개발 - C
+15. SmartNac 개발 - MFC
