@@ -71,5 +71,6 @@ categories: job
     - UDP Hole punching 을 이용
 14. 카메라 하드웨어 개발 - C
 15. SmartNac 개발 - MFC
+    - 네트워크 관리 및 
 16. 자동화 시스템(HW)의 PLC 상태 모니터링 및 제어 - C#
     - 모니터링 프로그램 개발 및 유지보수
