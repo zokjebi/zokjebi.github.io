@@ -37,7 +37,7 @@ categories: job
 
 ### 🔧기술스택
 
-- 스택쉐어 링크 : https://stackshare.io/myimgman/my-stack 
+- stackshare Link : https://stackshare.io/myimgman/my-stack 
   - C
   - C++
   - MFC
