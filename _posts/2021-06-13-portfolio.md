@@ -35,17 +35,18 @@ categories: job
 
 공부한 내용을 정리할 때, 일상을 기록할 때 사용합니다.
 
-### 🔧기술스택 (https://stackshare.io/myimgman/my-stack)
+### 🔧기술스택
 
-- C
-- C++
-- MFC
-- C#
-- Android
-- Java / Spring
-- Php
-- Node JS / Electron JS
-- Swift / Objective-C (최근에 개인프로젝트로 공부중이며 앱스토어에 출시도 해보았습니다.)
+- 스택쉐어 링크 : https://stackshare.io/myimgman/my-stack 
+  - C
+  - C++
+  - MFC
+  - C#
+  - Android
+  - Java / Spring
+  - Php
+  - Node JS / Electron JS
+  - Swift / Objective-C (최근에 개인프로젝트로 공부중이며 앱스토어에 출시도 해보았습니다.)
     - [https://apps.apple.com/kr/app/트롯투표-리매치/id1554393987](https://apps.apple.com/kr/app/%ED%8A%B8%EB%A1%AF%ED%88%AC%ED%91%9C-%EB%A6%AC%EB%A7%A4%EC%B9%98/id1554393987)
 
 ### 🗃개발에 참여한 프로그램
