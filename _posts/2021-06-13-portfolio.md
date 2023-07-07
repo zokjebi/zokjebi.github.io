@@ -58,7 +58,7 @@ categories: job
     - IOCP 를 이용하여 개발
 4. 영상 스트리밍 앱  - Android
     - UDP Hole punching 을 이용
-5. 카메라 하드웨어 개발 - C
+5. 카메라 하드웨어 개발 - Java, C, JNI
 6. POS 프로그램 - C#
 7. 쇼핑몰 앱 - iOS
 8. 유아교육 앱 - iOS
@@ -76,7 +76,7 @@ categories: job
 16. 방문관리상담 앱 - Android
 17. 자동화 시스템(HW)의 PLC 상태 모니터링 및 제어 - C#
     - 모니터링 프로그램 개발 및 유지보수
-18. MES, POP 개발 - C#
+18. OO베이커리, MES, POP 개발 - C#
     - 자재 입출고 개발 
     - ZPL 을 이용한 바코드 프린터 개발
     - 일부인 프린터 통신을 이용한 유통기한 프린터 출력 자동화 개발 
