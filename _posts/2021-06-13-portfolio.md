@@ -47,36 +47,48 @@ categories: job
   - Java / Spring
   - Php
   - Node JS / Electron JS
-  - Swift / Objective-C (최근에 개인프로젝트로 공부중이며 앱스토어에 출시도 해보았습니다.)
+  - Swift / Objective-C (개인프로젝트로 공부중이며 앱스토어에 출시하여 )
     - [https://apps.apple.com/kr/app/트롯투표-리매치/id1554393987](https://apps.apple.com/kr/app/%ED%8A%B8%EB%A1%AF%ED%88%AC%ED%91%9C-%EB%A6%AC%EB%A7%A4%EC%B9%98/id1554393987)
 
 ### 🗃개발에 참여한 프로그램
 
-1. 전화상담 프로그램 - VB.Net, C#
-2. 방문관리상담 앱 - Android
-3. 계측기 장비, 통신 프로그램 (미들웨어)  - C#
-4. 특수차량 안전관리 프로그램 - Android, Spring, Electron JS (커스텀 브라우저 제작을 위함)
+1. SmartNac 개발 - MFC
+    - 네트워크 관리 및 통계 프로그램 개발
+3. 윈도우 영상 스트리밍 서버 - MFC
+    - IOCP 를 이용하여 개발
+4. 영상 스트리밍 앱  - Android
+    - UDP Hole punching 을 이용
+5. 카메라 하드웨어 개발 - C
+6. POS 프로그램 - C#
+7. 쇼핑몰 앱 - iOS
+8. 유아교육 앱 - iOS
+    - 음원 재생, 다운로드 기능 구현
+9. 와이파이 스캐너 앱 - C#, Android, Web
+    - 기숙사 출입 시스템
+10. OO소방, 소화전관리 프로그램 - C# WPF, Android
+11. 위험물관리 프로그램 - C#
+12. OO터미널, 수화물관리 프로그램 - C#
+13. 계측기 장비, 통신 프로그램 (미들웨어)  - C#
+14. 특수차량 안전관리 프로그램 - Android, Spring, Electron JS (커스텀 브라우저 제작을 위함)
     - 비콘과 비콘수신기와의 통신을 이용
     - 기존 ERP와의 데이터를 연계하여 전광판 (PC)에 데이터 표현
-5. OO소방, 소화전관리 프로그램 - C# WPF, Android
-6. 위험물관리 프로그램 - C#
-7. POS 프로그램 - C#
-8. 와이파이 스캐너 앱 - C#, Android, Web
-    - 기숙사 출입 시스템
-9. OO터미널, 수화물관리 프로그램 - C#
-10. 쇼핑몰 앱 - iOS
-11. 유아교육 앱 - iOS
-    - 음원 재생, 다운로드 기능 구현
-12. 윈도우 영상 스트리밍 서버 - MFC
-    - IOCP 를 이용하여 개발
-13. 영상 스트리밍 앱  - Android
-    - UDP Hole punching 을 이용
-14. 카메라 하드웨어 개발 - C
-15. SmartNac 개발 - MFC
-    - 네트워크 관리 및 
-16. 자동화 시스템(HW)의 PLC 상태 모니터링 및 제어 - C#
+15. 전화상담 프로그램 - VB.Net, C#
+16. 방문관리상담 앱 - Android
+17. 자동화 시스템(HW)의 PLC 상태 모니터링 및 제어 - C#
     - 모니터링 프로그램 개발 및 유지보수
-17. MES, POP 개발 - C#
+18. MES, POP 개발 - C#
     - 자재 입출고 개발 
     - ZPL 을 이용한 바코드 프린터 개발
-    - 일부인 프린터 통신을 이용한 유통기한 프린터 출력 자동화 개발
+    - 일부인 프린터 통신을 이용한 유통기한 프린터 출력 자동화 개발 
+
+
+
+
+
+
+
+
+
+
+
+
