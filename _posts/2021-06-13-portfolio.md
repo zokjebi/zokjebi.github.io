@@ -39,14 +39,14 @@ categories: job
 ### 🔧기술스택
 
 - stackshare Link : https://stackshare.io/myimgman/my-stack 
+  - C#
+  - Java / Spring
+  - Android
+  - Php
+  - Node JS / Electron JS
   - C
   - C++
   - MFC
-  - C#
-  - Android
-  - Java / Spring
-  - Php
-  - Node JS / Electron JS
   - Swift / Objective-C (개인프로젝트로 공부중이며 앱스토어에 출시하여 )
     - [https://apps.apple.com/kr/app/트롯투표-리매치/id1554393987](https://apps.apple.com/kr/app/%ED%8A%B8%EB%A1%AF%ED%88%AC%ED%91%9C-%EB%A6%AC%EB%A7%A4%EC%B9%98/id1554393987)
 
