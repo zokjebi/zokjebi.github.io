@@ -58,7 +58,7 @@ categories: job
     - IOCP 를 이용하여 개발
 3. 영상 스트리밍 앱  - Android
     - UDP Hole punching 을 이용
-5. 카메라 하드웨어 개발 - Java, C, JNI
+5. 카메라 하드웨어 개발 - Java, C
 6. POS 프로그램 - C#
 7. 쇼핑몰 앱 - iOS
 8. 유아교육 앱 - iOS
