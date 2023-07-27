@@ -47,7 +47,7 @@ categories: job
   - C
   - C++
   - MFC
-  - Swift / Objective-C (개인프로젝트로 공부중이며 앱스토어에 출시하여 )
+  - Swift / Objective-C (개인프로젝트로 공부중이며 앱스토어에 출시하여 현재 운영중입니다.)
     - [https://apps.apple.com/kr/app/트롯투표-리매치/id1554393987](https://apps.apple.com/kr/app/%ED%8A%B8%EB%A1%AF%ED%88%AC%ED%91%9C-%EB%A6%AC%EB%A7%A4%EC%B9%98/id1554393987)
 
 ### 🗃개발에 참여한 프로그램
