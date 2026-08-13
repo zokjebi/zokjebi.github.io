@@ -166,6 +166,10 @@ Error generating stack: `+o.message+`
   background-color: #ffffff;
   width: 85vw;
   margin: 0 auto;
+
+  @media screen and (max-width: 400px) {
+    width: calc(100vw - 60px);
+  }
   
   @media screen and (min-width: 500px) {
       width: 500px;
