@@ -268,7 +268,7 @@ Error generating stack: `+o.message+`
   display: flex;
   flex-direction: column;
   text-align: left;
-`,HC=()=>{const{lat:e,lon:t}=Bt.mapInfo,n=Ct(),r=e-7e-4,i=t+.00191;return A(cx,{style:{width:"100%",height:"300px"},children:A(vx,{defaultCenter:new n.LatLng(r,i),defaultZoom:16,zoomControl:!1,draggable:!1,pinchZoom:!1,scrollWheel:!1,keyboardShortcuts:!1,children:A(GS,{defaultPosition:new n.LatLng(e,t),icon:{content:`
+`,HC=()=>{const{lat:e,lon:t}=Bt.mapInfo,n=Ct();return A(cx,{style:{width:"100%",height:"300px"},children:A(vx,{defaultCenter:new n.LatLng(e,t),defaultZoom:16,zoomControl:!1,draggable:!1,pinchZoom:!1,scrollWheel:!1,keyboardShortcuts:!1,children:A(GS,{defaultPosition:new n.LatLng(e,t),icon:{content:`
               <div style="position: relative; width: 160px; height: 86px;">
                 <div style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); padding: 7px 10px; border: 1px solid #e88ca6; border-radius: 8px; background: #fff; color: #2f2120; font-size: 12px; font-weight: 700; white-space: nowrap; box-sizing: border-box;">
                   노비아갈라 전자관점
