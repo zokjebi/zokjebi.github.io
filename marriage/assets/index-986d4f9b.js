@@ -81,7 +81,13 @@ Error generating stack: `+o.message+`
 그때, 그 사진 속에 저희와 함께 웃고 있는
 여러분이 있었으면 좋겠습니다`,host:{groom:{name:"류동엽",relation:"장남",parents:[{relation:"아버지",name:"류규정"},{relation:"어머니",name:"방순향"}]},bride:{name:"손서연",relation:"차녀",parents:[{relation:"아버지",name:"손정술"},{relation:"어머니",name:"권순희"}]}},eventDetail:`2026년 11월 28일 토요일 오후 4시30분
 대구 노비아갈라웨딩 전자관점
-5층 보타닉가든홀`},Ax=[{host:"🤵 신랑측",accountInfo:[{name:"류규정",relation:"신랑 아버지",bank:"대구은행 (아이엠뱅크)",account:"099-08-123909"},{name:"방순향",relation:"신랑 어머니",bank:"대구은행 (아이엠뱅크)",account:"157-13-062536"},{name:"류동엽",relation:"신랑",bank:"국민은행",account:"805502-01-194730"}]},{host:"👰 신부측",accountInfo:[{name:"손정술",relation:"신부 아버지",bank:"대구은행 (아이엠뱅크)",account:"010-2501-8896"},{name:"권순희",relation:"신부 어머니",bank:"하나은행",account:"142-891223-71707"},{name:"손서연",relation:"신부",bank:"토스은행",account:"1000-7696-7173"}]}],Ox={weddingDate:"2026-11-28 16:30",weddingDateText:`2026년 11월 28일
+5층 보타닉가든홀`},Ax=[{host:"🤵 신랑측",accountInfo:[{name:"류규정",relation:"신랑 아버지",bank:"대구은행 (아이엠뱅크)",account:`
+099-08-123909`},{name:"방순향",relation:"신랑 어머니",bank:"대구은행 (아이엠뱅크)",account:`
+157-13-062536`},{name:"류동엽",relation:"신랑",bank:"국민은행",account:`
+805502-01-194730`}]},{host:"👰 신부측",accountInfo:[{name:"손정술",relation:"신부 아버지",bank:"대구은행 (아이엠뱅크)",account:`
+010-2501-8896`},{name:"권순희",relation:"신부 어머니",bank:"하나은행",account:`
+142-891223-71707`},{name:"손서연",relation:"신부",bank:"토스은행",account:`
+1000-7696-7173`}]}],Ox={weddingDate:"2026-11-28 16:30",weddingDateText:`2026년 11월 28일
 토요일 오후 4시30분`},Ix={address1:"대구 노비아갈라웨딩 전자관점",address2:"(대구 북구 유통단지로 45)",phone:"053-604-1900",naverMap:"https://naver.me/FZ27IE5U",kakaoMap:"https://kko.to/Ts0QI1gglK",lat:35.9072,lon:128.60702},Lx=[{title:"🚌 버스",desc:`👉🏻 '동대구역' 정류장에서 413번 또는 937번 버스 탑승
 '전자관' 정류장 하차, 도보 3~5분
 `},{title:"🅿️ 주차 안내",desc:"👉🏻 [4층, 옥상 주차장] 2시간 30분 무료"}],zx=["❤️","💛","💌","🥹","🥳","👰🏻‍","🤵🏻‍️","🤍","✨","💍","💒","💕","😍","🔔","💘"],Bt={greeting:Tx,hostInfo:Ax,date:Ox,mapInfo:Ix,locationInfo:Lx,emojis:zx},Mx=e=>S.createElement("svg",{xmlns:"http://www.w3.org/2000/svg",height:24,viewBox:"0 -960 960 960",width:24,...e},S.createElement("path",{d:"M360-240q-33 0-56.5-23.5T280-320v-480q0-33 23.5-56.5T360-880h360q33 0 56.5 23.5T800-800v480q0 33-23.5 56.5T720-240H360Zm0-80h360v-480H360v480ZM200-80q-33 0-56.5-23.5T120-160v-560h80v560h440v80H200Zm160-240v-480 480Z"})),Rx=({name:e,relation:t,bank:n,account:r})=>B(Nx,{children:[B($x,{children:[A(Dx,{children:t}),A(Fx,{children:e})]}),B(bx,{children:[B(jx,{children:[n," ",r]}),A(Bx,{onClick:()=>{navigator.clipboard.writeText(r).then(()=>{alert("계좌번호가 복사되었습니다.😉😉")},()=>{alert("계좌번호 복사에 실패했습니다.🥲🥲")})},children:A(Mx,{fill:"#dfdfdf"})})]})]}),Nx=F.div`
