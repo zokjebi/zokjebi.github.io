@@ -284,7 +284,7 @@ Error generating stack: `+o.message+`
             `,size:new n.Size(160,86),anchor:new n.Point(82,87)}})}),B(UC,{type:"button",onClick:i,children:[A("span",{"aria-hidden":"true",children:"📍"}),"노비아갈라 전자관점"]})]})},UC=F.button`
   position: absolute;
   left: 50%;
-  bottom: 12px;
+  bottom: 20px;
   z-index: 10;
   display: inline-flex;
   align-items: center;
